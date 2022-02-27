@@ -1,3 +1,4 @@
 # Stopping-at-nothing
-Data &amp; code (DOI in README file)
+Data &amp; code
+
 https://doi.org/10.1016/j.jecp.2021.105171
